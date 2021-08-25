@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋.
+My name is Emmanuel Maya Molina, oEmayam
+Currently I am young, and I program everything that as a child I wanted to program as an adult but I do it as a young man
+
+- i'm at the university (IUE) I study computer engineering (my dream as a child) 🔭
+- I take courses (web development, python, ethical hacking) on udemy, courses (soft skills) on platzi, I complement myself with all the knowledge of the Internet. 🌱
+
+
+You can contact me on my git, or on twitter :), I am always willing to learn new things, develop the future 👯
+
 
 <!--
 **Emayamolina/Emayamolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
