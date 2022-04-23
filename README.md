@@ -8,6 +8,8 @@ I am currently young, and I codify, what as a child I wanted to see as an adult,
 Complement with soft skills courses at @Platzi🌱
 I'm in college studying computer engineering (my childhood dream) 🔭
 I'm waiting for your message on my Git, Twitter :), I'm always willing to learn new things and together we can develop the future 👯
+I’m looking to collaborate on: web development, sql, deep learning. I work in: web development, java, python, deep learning, sql.
+
 
 <!--
 **Emayamolina/Emayamolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
