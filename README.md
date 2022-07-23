@@ -1,6 +1,8 @@
 ### Hi there 👋.
-My name is Emmanuel Maya Molina, or @emayaml on social networks like Git, Twitter, Bloger, Instagram :)
+My name is Emmanuel Maya Molina, or @emayaml on social networks like Git, Twitter, Linkedin, Blogger, Instagram :)
 I am currently young, and I codify, what as a child I wanted to see as an adult, although I do it a little more before.
+
+Co-founder, CEO at Creatway | It enginer student on U, life and Platzi 💙
 
 - I am constantly learning about:
                    *Web development
